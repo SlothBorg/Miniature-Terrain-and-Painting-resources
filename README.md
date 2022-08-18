@@ -1,1 +1,160 @@
-# Miniature-Terrain-and-Painting-resources
+<details>
+  <summary><h2>YouTube</h2></summary>
+
+* ### Mainly Painting
+  * [52 Miniatures](https://www.youtube.com/c/52Miniatures)
+  * [Lyla Mev - The Mini Witch](https://www.youtube.com/c/LylaMev)
+  * [Zumikito Miniatures](https://www.youtube.com/c/Zumikito)
+  * [Trovarion Miniatures](https://www.youtube.com/c/trovarion/videos)
+  * [The Gallery of Colours](https://www.youtube.com/c/TheGalleryofColours)
+  * [Spen's Painting](https://www.youtube.com/c/SpensPainting)
+  * [Miniac](https://www.youtube.com/c/Miniac)
+  * [Midwinter Minis](https://www.youtube.com/c/MidwinterMinis)
+  * [MarcoFrisoniNJM](https://www.youtube.com/c/MarcoFrisoniNJM)
+  * [Dana Howl](https://www.youtube.com/c/DanaHowl)
+  * [Benji’s Hobbies](https://www.youtube.com/c/Benji%E2%80%99sHobbies)
+* ### Painting & Crafting
+  * [Eric's Hobby Workshop](https://www.youtube.com/c/EricsHobbyWorkshop)
+  * [The Pickle Jar](https://www.youtube.com/c/ThePickleJar)
+  * [Squidmar Miniatures](https://www.youtube.com/c/SquidmarMiniatures)
+  * [Slayer Miniatures](https://www.youtube.com/c/SlayerMiniatures)
+  * [Realm of the Liche King](https://www.youtube.com/c/RealmoftheLicheKing)
+  * [Pete The Wargamer](https://www.youtube.com/c/TheWarGamerChannel)
+  * [Ninjon](https://www.youtube.com/c/Ninjon)
+  * [Goobertown Hobbies](https://www.youtube.com/c/GoobertownHobbies)
+  * [Geek Gaming Scenics](https://www.youtube.com/c/GeekGamingScenics)
+  * [eBay Miniature Rescues](https://www.youtube.com/c/eBayMiniatureRescues)
+  * [Devs & Dice](https://www.youtube.com/c/DevsDice)
+  * [Broadsword Wargaming](https://www.youtube.com/c/BroadswordWargaming)
+  * [Vince Venturella](https://www.youtube.com/c/VinceVenturella/videos)
+* ### Mainly Crafting
+  * [Zorpazorp](https://www.youtube.com/c/Zorpazorp)
+  * [Wyloch's Armory](https://www.youtube.com/c/WylochsCraftingVids)
+  * [Tom Mason](https://www.youtube.com/c/TomMasonSculptor) - Sculpting minis
+  * [Toasthammer](https://www.youtube.com/channel/UC9ZlgG9IQYBBQ1igVXLGb3g) - kitbashing
+  * [TheTerrainTutor](https://www.youtube.com/c/TheTerrainTutor)
+  * [RP Archive](https://www.youtube.com/c/RPArchiveOfficial)
+  * [Real Terrain Hobbies](https://www.youtube.com/c/RealTerrainHobbies)
+  * [Platypus Scotsman](https://www.youtube.com/c/PlatypusScotsman)
+  * [Nerdforge](https://www.youtube.com/c/Nerdforge)
+  * [NerdCraftHQ](https://www.youtube.com/c/NerdCraftHQ)
+  * [Miscast](https://www.youtube.com/c/Miscast)
+  * [Knarb Makes](https://www.youtube.com/c/KnarbMakes/videos)
+  * [Kitbosh](https://www.youtube.com/channel/UCz_GfvTNbg1vsLFqN6yHvXQ) - Detailed kitbashing videos
+  * [Jam's Mini Mods](https://www.youtube.com/channel/UCUGJGCz08aTQr03jAR532qA)
+  * [Franky D. Crafter](https://www.youtube.com/c/FrankyDCrafter)
+  * [Conjured Craft](https://www.youtube.com/c/ConjuredCraft)
+  * [Black Magic Craft](https://www.youtube.com/c/BlackMagicCraftOfficial)
+  * [Berserkerworks](https://www.youtube.com/c/Berserkerworks/videos)
+* ### General
+  * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
+  * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
+  * [EonsOfBattle](https://www.youtube.com/c/EonsOfBattle)
+
+</details>
+
+
+<details>
+  <summary><h2>Reddit</h2></summary>
+
+* ### General
+  * [Miniature Sculpting](https://old.reddit.com/r/miniaturesculpting/)
+  * [Mini Painting](https://old.reddit.com/r/minipainting/)
+  * [Mini Swap](https://old.reddit.com/r/Miniswap/)
+  * [Printed Minis](https://old.reddit.com/r/PrintedMinis/) - even though it's 3d printing related, there is a lot of other stuff making it a more general sub in my mind.
+  * [Terrain Building](https://old.reddit.com/r/TerrainBuilding/)
+  * [Wargames](https://old.reddit.com/r/wargames/)
+  * [Wargaming](https://old.reddit.com/r/wargaming/)
+* ### Games
+  * [frostgrave](https://old.reddit.com/r/frostgrave/)
+  * [gaslands](https://old.reddit.com/r/gaslands/)
+* ### 3d Printing
+  * [3d Printed Warhammer](https://old.reddit.com/r/3dPrintedWarhammer/)
+  * [3d Printers](https://old.reddit.com/r/3dprinters/)
+  * [3D Printing](https://old.reddit.com/r/3Dprinting/)
+  * [cults3d](https://old.reddit.com/r/cults3d/) - cults3d is a shitty service, it's not great for the creator, but there is still some good stuff on there.
+  * [Open Forge](https://old.reddit.com/r/OpenForge/) - type of terrain
+  * [Resin Printing](https://old.reddit.com/r/resinprinting/)
+  * #### Manufactures
+    * [Anycubic Photon](https://old.reddit.com/r/AnycubicPhoton/)
+    * [Phrozen](https://old.reddit.com/r/Phrozen/)
+
+</details>
+
+<details>
+  <summary><h2>Materials</h2></summary>
+
+* [Paint comparisons]( https://slothborg.github.io/paint-conversion/) - It is my resource and a bit of a work in progress
+* [FolkArt Pure](https://www.michaels.com/folkart-pure-artist-pigment-2oz/M20001827.html) A line of mostly pure pigment paints, that are cheap. Great when mixed with acrylic medium / water.
+* #### Golden So Flat
+  * [Dana Howl's review](https://www.youtube.com/watch?v=Rl4i3gNwbCA)
+  * [Ninjon's review](https://www.youtube.com/watch?v=iLkSQjG9oLg)
+  * [Vince Venturella](https://www.youtube.com/watch?v=__WT-HEffNQ)
+* ### AP Speedpaints
+  * [Goobertown Hobbies's review](https://www.youtube.com/watch?v=zsHGUAAi420)
+  * [EonsOfBattle's review](https://www.youtube.com/watch?v=Bu8gfboxgwo)
+  * [Dana Howl's review](https://www.youtube.com/watch?v=srUSz8cPqTo)
+  * [Squidmar Miniatures's review](https://www.youtube.com/watch?v=a8TtVSVTpDo)
+* ### Duncan's Paints
+  * [Goobertown Hobbies's review](https://www.youtube.com/watch?v=i_ic0lb630k)
+* DIY Contrast Paint  
+  * 50 / 50 mix of flow improver & matte medium + Paint
+  * or
+  * Mix of Acrylic ink + matte medium + flow improver
+
+</details>
+
+<details>
+  <summary><h2>Specific Techniques</h2></summary>
+
+* [NMM Steel](https://i.redd.it/sevo2tnly7u71.jpg)
+* [Painting Wood](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) 
+* [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
+* [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
+* DIY Sculptamold - 1:1 Blown in insulation & Plaster of Paris
+* DIY Texture Paste
+  * Acrylic caulking
+  * Water / rubbing alcohol
+  * Texture material (backing soda, sand, sawdust, coffee, tea, etc.)
+  * Paint
+* DIY Mod Podge
+  * 50/50 mix of Minwax Polycrylic and High Grade PVA, thinned as needed with water.
+* [Linen Tents](https://www.youtube.com/watch?v=d9CZoLcwdvA)
+* Leather - shop towels and pva if you want a leather/tent look... good tutorial from BMC and Real Terrain Hobbies on doing that
+* ### Gap filling
+  * Green stuff, Miliput or Greenstuff & Milliput
+    * Requires some sculpting, and polishing
+  * Super glue + Baking Soda
+    * Great for small gaps!
+    * Great for resin / plastic
+    * Does result in a rocky / stone like texture
+  * Sprue Goo
+    * mix bits of sprue with plastic glue / cement wait for it to disolve then use it as liquid plastic
+* ### Trees
+  * Upgrading holiday decorative trees
+    * Get cheap declarative trees.
+    * Clean, with warm water and brush
+    * Dip in 50/50 water pva glue
+    * Flock
+    * Spray with water
+    * Spray with 80/20 water pva glue
+    * Paint!
+    * Clear coat
+  * [Seafoam and armatures](https://www.youtube.com/watch?v=DEsOFAKCon8)
+ * [Salt Chipping / Salt Masking - Tutorial](https://makezine.com/2021/10/06/distressed-sign-using-salt-spray-paint/)
+ * [Salt Chipping / Salt Masking - Video](https://www.youtube.com/watch?v=Nm7SIpaaU24&t=934s)  
+* [Gaslands Cars](https://www.youtube.com/watch?v=Nm7SIpaaU24)
+* ### DIY Battle mats
+  * Coat a fabric drop cloth in a layer or two of acrylic caulking
+    * OPTIONAL - Use a wet plastic bag to stipple a second layer of caulking for texture
+    * OPTIONAL - Use a VERY wet texture roller to texture the mat
+    * OPTIONAL - paint on a mixture of PVA glue and sand or baking soda for extra texture
+  * Paint the “battle mat”
+  * Optionally give it a seal coat
+ * [Cheap Basing materia](https://www.youtube.com/watch?v=duDjTX6-abw)
+ * Flesh Goop
+   * PVA glue
+   * Drop superglue over it
+   * After it starts reacting, move it around with a toothpick 
+   * Add ink for color
+</details>
