@@ -47,6 +47,7 @@
   * [Black Magic Craft](https://www.youtube.com/c/BlackMagicCraftOfficial)
   * [Berserkerworks](https://www.youtube.com/c/Berserkerworks/videos)
   * [Sean Counley](https://www.youtube.com/user/abscnth)
+  * [Chimera Wargaming](https://www.youtube.com/c/ChimeraWargaming)
 * ### General
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
