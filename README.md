@@ -192,7 +192,7 @@
 * [Real Terrain Hobbies - The Shire Board](https://www.youtube.com/watch?v=ygb7wNOQnIs)
 * [Geek Gaming Scenics - One day board build](https://www.youtube.com/watch?v=4W5I9LN1IAo)
 * [Miscast - Board](https://www.youtube.com/watch?v=5VC6wCHOyDk)
-
-
+* [Zorpazorp - Minas Titith](https://www.youtube.com/watch?v=y3hXZUf3G_g&list=PLpEedkt7FKTkUFtJFyYUxWZgv7QosfQzJ)
+* [Zorpazorp - Rohan & Edoras](https://www.youtube.com/watch?v=TMaw_Fi6Ao0&list=PLpEedkt7FKTmZu7FOGPeq6A5UfE0FFPi1)
 
 </details>
