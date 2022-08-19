@@ -195,5 +195,6 @@
 * [Miscast - Board](https://www.youtube.com/watch?v=5VC6wCHOyDk)
 * [Zorpazorp - Minas Titith](https://www.youtube.com/watch?v=y3hXZUf3G_g&list=PLpEedkt7FKTkUFtJFyYUxWZgv7QosfQzJ)
 * [Zorpazorp - Rohan & Edoras](https://www.youtube.com/watch?v=TMaw_Fi6Ao0&list=PLpEedkt7FKTmZu7FOGPeq6A5UfE0FFPi1)
+* [Broken Terrain - Modular Magnetic Village](https://www.youtube.com/watch?v=FEYiqwRs1MA)
 
 </details>
