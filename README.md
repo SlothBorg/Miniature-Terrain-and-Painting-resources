@@ -158,3 +158,23 @@
    * After it starts reacting, move it around with a toothpick 
    * Add ink for color
 </details>
+
+<details>
+  <summary><h2>Cool Conversions and Kitbashes</h2></summary>
+
+* [Overgrown Necrons](https://www.youtube.com/watch?v=XLKxW_p31cI)
+* [Fungal Sylvaneth](https://www.youtube.com/watch?v=dnkiXTgtGdk)
+* [Clown Gloomspite Gitz](https://www.youtube.com/watch?v=efi5tOlQ_Fc&list=PLn_wcmo3Ol05D1UNbaKrsRdLWcSTehoK7)
+* [Scratch Built ORK Army](https://www.youtube.com/watch?v=PD390AZbsdc)
+* [Miscast's - The Nurgle Diaries](https://www.youtube.com/watch?v=vyv9RK74eAM&list=PLiWIXKdHWWrsBLFAyPu1BpxxnHdlutZD-)
+* Monster Bash I
+  * [Miscast](https://www.youtube.com/watch?v=6FBVWLdCIq0)
+  * [Berserkerworks](https://www.youtube.com/watch?v=xhsBqN73HPQ)
+  * [Raqrex Art](https://www.youtube.com/watch?v=JjLkboZz3pg)
+  * [NerdCraftHQ](https://www.youtube.com/watch?v=A3UjhTFf0f4)
+* [Monster Bash I](https://www.youtube.com/watch?v=vyv9RK74eAM&list=PLiWIXKdHWWrsBLFAyPu1BpxxnHdlutZD-)
+* [Monster Bash II](https://www.youtube.com/playlist?list=PLiWIXKdHWWrttB8sTsHdc3ClLe0A5pMRz)
+* [Monster Bash III](https://www.youtube.com/playlist?list=PLiWIXKdHWWrul0yjNsjfGYJBCX6bhTzd3)
+
+
+</details>
