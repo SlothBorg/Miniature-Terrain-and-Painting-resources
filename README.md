@@ -112,6 +112,7 @@
 * [Painting Wood](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) 
 * [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
+* [Rust effect with real rust](https://www.youtube.com/watch?v=ZiQcWaPqPPk)
 * DIY Sculptamold - 1:1 Blown in insulation & Plaster of Paris
 * DIY Texture Paste
   * Acrylic caulking
