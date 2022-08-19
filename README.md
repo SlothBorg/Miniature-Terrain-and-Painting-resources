@@ -51,7 +51,17 @@
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
   * [EonsOfBattle](https://www.youtube.com/c/EonsOfBattle)
-
+* ### WarHammer Specific
+  * [IDICBeer 40k - Necrons and More](https://www.youtube.com/c/IDICBeer/videos)
+  * [C M Wargames](https://www.youtube.com/c/CMWargames)
+  * [Twisted Dice](https://www.youtube.com/c/TwistedDice)
+  * [6+ Stevo](https://www.youtube.com/c/6Stevo)
+  * [Baldermort’s Guide to Warhammer](https://www.youtube.com/channel/UCdpGd0jls7VQh6LvcZT_p1A)
+  * [Black Toad Studio](https://www.youtube.com/c/BlackToadStudio)
+  * [Big Mek Danskull](https://www.youtube.com/c/BigMekDanskull)
+  * [LetsMakeItOrkie](https://www.youtube.com/channel/UCgH0NJRwBv-fot3oUd3np1w)
+  * [Planet 40k](https://www.youtube.com/c/Planet40K)
+  
 </details>
 
 
