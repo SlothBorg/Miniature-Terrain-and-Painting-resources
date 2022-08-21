@@ -54,7 +54,7 @@
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
   * [EonsOfBattle](https://www.youtube.com/c/EonsOfBattle)
-* ### WarHammer Specific
+* ### Mostly WarHammer
   * [IDICBeer 40k - Necrons and More](https://www.youtube.com/c/IDICBeer/videos)
   * [C M Wargames](https://www.youtube.com/c/CMWargames)
   * [Twisted Dice](https://www.youtube.com/c/TwistedDice)
@@ -64,6 +64,7 @@
   * [Big Mek Danskull](https://www.youtube.com/c/BigMekDanskull)
   * [LetsMakeItOrkie](https://www.youtube.com/channel/UCgH0NJRwBv-fot3oUd3np1w)
   * [Planet 40k](https://www.youtube.com/c/Planet40K)
+  * [Billion Dollar Clown Farm](https://www.youtube.com/channel/UCiI_XuSHu2XuoIzuQY2vV1g) - Has some painting
   
 </details>
 
