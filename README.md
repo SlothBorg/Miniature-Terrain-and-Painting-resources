@@ -48,6 +48,8 @@
   * [Berserkerworks](https://www.youtube.com/c/Berserkerworks/videos)
   * [Sean Counley](https://www.youtube.com/user/abscnth)
   * [Chimera Wargaming](https://www.youtube.com/c/ChimeraWargaming)
+  * [Studson Studio](https://www.youtube.com/c/StudsonStudio) - mostly dioramas, a lot of great techniques and ideas
+  * [Mechanical Fiend](https://www.youtube.com/c/MechanicalFiend) - mostly dioramas, a lot of great techniques and ideas
 * ### General
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
