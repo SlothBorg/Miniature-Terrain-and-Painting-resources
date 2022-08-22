@@ -193,6 +193,7 @@
    * After it starts reacting, move it around with a toothpick 
    * Add ink for color
  * [Adam Savage Learns Grass Flocking at Wētā Workshop!](https://www.youtube.com/watch?v=2cZbx8edQPM)
+ * [Fire, gas, fog etc using cotton balls](https://www.youtube.com/watch?v=JNquk-vooy0)
  * ### Basing
   * [Broad Sword Gaming - miniature basing guide](https://www.youtube.com/watch?v=-kWCXJzMHtw)
   * [EonsOfBattle - basing playlist](https://www.youtube.com/watch?v=ZMeYxSVcF8I&list=PLX1fXqW4h5RRcMWPdKQaOoskc-XsyeV9Z)
