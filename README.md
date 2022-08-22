@@ -13,6 +13,7 @@
   * [MarcoFrisoniNJM](https://www.youtube.com/c/MarcoFrisoniNJM)
   * [Dana Howl](https://www.youtube.com/c/DanaHowl)
   * [Benji’s Hobbies](https://www.youtube.com/c/Benji%E2%80%99sHobbies)
+  * [Duncan Rhodes Painting Academy](https://www.youtube.com/c/DuncanRhodesPaintingAcademy)
 * ### Painting & Crafting
   * [Eric's Hobby Workshop](https://www.youtube.com/c/EricsHobbyWorkshop)
   * [The Pickle Jar](https://www.youtube.com/c/ThePickleJar)
