@@ -29,6 +29,7 @@
   * [Vince Venturella](https://www.youtube.com/c/VinceVenturella/videos)
   * [Magrathea Builder Of Worlds](https://www.youtube.com/channel/UC-PbaIjLxrQ4iSpRxCJG0AA)
   * [TheDMsCraft](https://www.youtube.com/c/theDMsCraft)
+  * [Broadsword Wargaming](https://www.youtube.com/c/BroadswordWargaming)
 * ### Mainly Crafting
   * [Zorpazorp](https://www.youtube.com/c/Zorpazorp)
   * [Wyloch's Armory](https://www.youtube.com/c/WylochsCraftingVids)
