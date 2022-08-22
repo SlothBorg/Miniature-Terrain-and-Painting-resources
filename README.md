@@ -27,6 +27,8 @@
   * [Devs & Dice](https://www.youtube.com/c/DevsDice)
   * [Broadsword Wargaming](https://www.youtube.com/c/BroadswordWargaming)
   * [Vince Venturella](https://www.youtube.com/c/VinceVenturella/videos)
+  * [Magrathea Builder Of Worlds](https://www.youtube.com/channel/UC-PbaIjLxrQ4iSpRxCJG0AA)
+  * [TheDMsCraft](https://www.youtube.com/c/theDMsCraft)
 * ### Mainly Crafting
   * [Zorpazorp](https://www.youtube.com/c/Zorpazorp)
   * [Wyloch's Armory](https://www.youtube.com/c/WylochsCraftingVids)
@@ -50,6 +52,22 @@
   * [Chimera Wargaming](https://www.youtube.com/c/ChimeraWargaming)
   * [Studson Studio](https://www.youtube.com/c/StudsonStudio) - mostly dioramas, a lot of great techniques and ideas
   * [Mechanical Fiend](https://www.youtube.com/c/MechanicalFiend) - mostly dioramas and other art forms, a lot of great techniques and ideas
+  * [Bill Making Stuff](https://www.youtube.com/c/BillMakingStuff)
+  * [The Terrain Tutor](https://www.youtube.com/c/TheTerrainTutor) - He also has a [book](https://www.ironheartartisans.com/shop/terrain-essentials-by-mel-bose-hardback-book/)
+  * [Mister Waugh Media](https://www.youtube.com/user/misterwaughmusic) - new/young channel has some promise, guy has shown off some cool stuff on reddit.
+  * [Bard's Craft](https://www.youtube.com/c/BardsCraft) - Now defunct? lots of good tutorials and ideas
+  * [Crooked Staff Terrain](https://www.youtube.com/c/CrookedStaffTerrain)
+  * [playllist on model building](https://www.youtube.com/watch?v=ZBWxp0kMJYY&list=PLuJj3iQpiK3sEB0dAQND_ZfBKrkhMmK0P)
+  * [BK Miniatures](https://www.youtube.com/channel/UCMh24_XWTie0ab33rM-sbPw)
+  * [Doctor Cranky's Lab-RAT-ory](https://www.youtube.com/c/DoctorCrankysLabRATory/videos)
+  * [Tabletop Lenny's Terrain](https://www.youtube.com/c/TabletopLenny-Wargaming-Terrain-Tabletop-Gelaende)
+  * [Boylei Hobby Time](https://www.youtube.com/c/BoyleiHobbyTime)
+* ### Scale Modeling  
+  * [Luke Towan](https://www.youtube.com/c/LukeTowan) - Detailed scale modeling 
+  * [scale Hangar 182](https://www.youtube.com/c/ScaleHangar182) - scale modeling
+  * [Night Shift Scale Models](https://www.youtube.com/c/NightShiftScaleModels)
+  * [RJMODELS](https://www.youtube.com/user/RJMODELS)
+  * [Kathy Millatt](https://www.youtube.com/c/KathyMillatt)
 * ### General
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
@@ -173,6 +191,7 @@
    * Drop superglue over it
    * After it starts reacting, move it around with a toothpick 
    * Add ink for color
+ * [Adam Savage Learns Grass Flocking at Wētā Workshop!](https://www.youtube.com/watch?v=2cZbx8edQPM)
 </details>
 
 <details>
