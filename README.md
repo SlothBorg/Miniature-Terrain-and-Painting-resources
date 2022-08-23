@@ -64,6 +64,7 @@
   * [Doctor Cranky's Lab-RAT-ory](https://www.youtube.com/c/DoctorCrankysLabRATory/videos)
   * [Tabletop Lenny's Terrain](https://www.youtube.com/c/TabletopLenny-Wargaming-Terrain-Tabletop-Gelaende)
   * [Boylei Hobby Time](https://www.youtube.com/c/BoyleiHobbyTime)
+  * [Max DM Crafting](https://www.youtube.com/c/MaxDMCrafting)
 * ### Scale Modeling  
   * [Luke Towan](https://www.youtube.com/c/LukeTowan) - Detailed scale modeling 
   * [scale Hangar 182](https://www.youtube.com/c/ScaleHangar182) - scale modeling
