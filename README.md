@@ -31,6 +31,7 @@
   * [Magrathea Builder Of Worlds](https://www.youtube.com/channel/UC-PbaIjLxrQ4iSpRxCJG0AA)
   * [TheDMsCraft](https://www.youtube.com/c/theDMsCraft)
   * [Broadsword Wargaming](https://www.youtube.com/c/BroadswordWargaming)
+  * [Chimera Wargaming](https://www.youtube.com/c/ChimeraWargaming)
 * ### Mainly Crafting
   * [Zorpazorp](https://www.youtube.com/c/Zorpazorp)
   * [Wyloch's Armory](https://www.youtube.com/c/WylochsCraftingVids)
@@ -51,7 +52,6 @@
   * [Black Magic Craft](https://www.youtube.com/c/BlackMagicCraftOfficial)
   * [Berserkerworks](https://www.youtube.com/c/Berserkerworks/videos)
   * [Sean Counley](https://www.youtube.com/user/abscnth)
-  * [Chimera Wargaming](https://www.youtube.com/c/ChimeraWargaming)
   * [Studson Studio](https://www.youtube.com/c/StudsonStudio) - mostly dioramas, a lot of great techniques and ideas
   * [Mechanical Fiend](https://www.youtube.com/c/MechanicalFiend) - mostly dioramas and other art forms, a lot of great techniques and ideas
   * [Bill Making Stuff](https://www.youtube.com/c/BillMakingStuff)
