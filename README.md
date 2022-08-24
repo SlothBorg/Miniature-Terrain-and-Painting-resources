@@ -15,6 +15,7 @@
   * [Benji’s Hobbies](https://www.youtube.com/c/Benji%E2%80%99sHobbies)
   * [Duncan Rhodes Painting Academy](https://www.youtube.com/c/DuncanRhodesPaintingAcademy)
   * [Doctor Faust's Painting Clinic](https://www.youtube.com/c/ThePaintingClinic)
+  * [Swords and Brushes](https://www.youtube.com/c/SwordsandBrushes)
 * ### Painting & Crafting
   * [Eric's Hobby Workshop](https://www.youtube.com/c/EricsHobbyWorkshop)
   * [The Pickle Jar](https://www.youtube.com/c/ThePickleJar)
