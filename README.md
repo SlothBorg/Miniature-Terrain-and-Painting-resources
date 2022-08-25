@@ -140,6 +140,11 @@
   * 50 / 50 mix of flow improver & matte medium + Paint
   * or
   * Mix of Acrylic ink + matte medium + flow improver
+* DIY Crackle Paint  
+  * Concrete pigment
+  * very finely ground coffee
+  * acrylic paint
+  * dilute with water to a paste
 
 </details>
 
