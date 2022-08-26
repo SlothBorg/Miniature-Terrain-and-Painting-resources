@@ -75,6 +75,7 @@
   * [Night Shift Scale Models](https://www.youtube.com/c/NightShiftScaleModels)
   * [RJMODELS](https://www.youtube.com/user/RJMODELS)
   * [Kathy Millatt](https://www.youtube.com/c/KathyMillatt)
+  * [Flying Raven Studios](https://www.youtube.com/c/FlyingRavenStudios)
 * ### General
   * [Trapped Under Plastic](https://www.youtube.com/c/trappedunderplastic)
   * [Paint Bravely The Podcast](https://www.youtube.com/c/PaintBravelyThePodcast)
