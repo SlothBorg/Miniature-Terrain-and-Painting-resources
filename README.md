@@ -68,6 +68,7 @@
   * [Boylei Hobby Time](https://www.youtube.com/c/BoyleiHobbyTime)
   * [Max DM Crafting](https://www.youtube.com/c/MaxDMCrafting)
   * [Kaypea Creations](https://www.youtube.com/c/KaypeaCreations) - Mostly making models of a larger than miniture game scale.
+  * [Tucktuk's Trinkets and Terrain](https://www.youtube.com/c/TucktuksTrinketsandTerrain)
 * ### Scale Modeling  
   * [Luke Towan](https://www.youtube.com/c/LukeTowan) - Detailed scale modeling 
   * [scale Hangar 182](https://www.youtube.com/c/ScaleHangar182) - scale modeling
