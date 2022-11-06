@@ -128,6 +128,7 @@
 
 * [Paint comparisons](https://slothborg.github.io/paint-conversion/) - It is my resource and a bit of a work in progress
 * [Citadel Contrast & Army Painter Speedpaint comparisons by Dana Howl](https://howlcorp.com/colors) - She has a afew videos about it [here](https://www.youtube.com/watch?v=HLn7U_CgD_Y) and [here](https://www.youtube.com/watch?v=srUSz8cPqTo)
+* [Review of Vallejo's XPRESS COLOR](https://www.youtube.com/watch?v=hu-LOws7suU)
 * [FolkArt Pure](https://www.michaels.com/folkart-pure-artist-pigment-2oz/M20001827.html) A line of mostly pure pigment paints, that are cheap. Great when mixed with acrylic medium / water.
 * #### Golden So Flat
   * [Dana Howl's review](https://www.youtube.com/watch?v=Rl4i3gNwbCA)
