@@ -225,6 +225,13 @@
  * ### Basing
   * [Broad Sword Gaming - miniature basing guide](https://www.youtube.com/watch?v=-kWCXJzMHtw)
   * [EonsOfBattle - basing playlist](https://www.youtube.com/watch?v=ZMeYxSVcF8I&list=PLX1fXqW4h5RRcMWPdKQaOoskc-XsyeV9Z)
+* ### Shapable texture paste:
+  * Inspired by this [Tabletop Time](https://www.youtube.com/watch?t=101&v=opd9bDX4JAo) video using rapid repair filler to make brick walls.
+  * ratios of plaster of Paris mixed into white paint or glue
+    * tablespoon of plaster and add just enough glue/paint to make it workable
+  * EVA sheets
+  * Tile grout mixed with plaster - around 20% grout is a good starting point - use powder and add water a little at a time.
+  * "free form air" two part epoxy dough and roll over it with a texture roller
   
   
 </details>
