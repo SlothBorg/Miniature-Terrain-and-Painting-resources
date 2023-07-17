@@ -168,7 +168,9 @@
   <summary><h2>Specific Techniques</h2></summary>
 
 * [NMM Steel](https://i.redd.it/sevo2tnly7u71.jpg)
-* [Painting Wood](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) 
+* ## Painting Wood
+ * [Wyloch's Armory - acrylic paint](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) see 4:10 mark
+ * [Wyloch's Armory - oil paint](https://www.youtube.com/watch?v=pxou7uG3vho?t=216s) see 3:36 mark
 * [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
 * [Rust effect with real rust](https://www.youtube.com/watch?v=ZiQcWaPqPPk)
