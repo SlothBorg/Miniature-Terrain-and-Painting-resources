@@ -170,7 +170,9 @@
 * [NMM Steel](https://i.redd.it/sevo2tnly7u71.jpg)
 * Painting Wood
   * [Wyloch's Armory - acrylic paint](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) see 4:10 mark
+    * asphaltum + raw umber wash
   * [Wyloch's Armory - oil paint](https://www.youtube.com/watch?v=pxou7uG3vho?t=216s) see 3:36 mark
+    * brown + orange + black oil paint
 * [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
 * [Rust effect with real rust](https://www.youtube.com/watch?v=ZiQcWaPqPPk)
