@@ -236,7 +236,9 @@
   * EVA sheets
   * Tile grout mixed with plaster - around 20% grout is a good starting point - use powder and add water a little at a time.
   * "free form air" two part epoxy dough and roll over it with a texture roller
-  
+* ### Glow effects
+  * [Glowing cracks in Thor's Hammer](https://www.youtube.com/shorts/g7EULymzJ-o)
+  * [Protomolecule Tyranids](https://www.youtube.com/watch?v=HwMAPzbGYgc)
   
 </details>
 
