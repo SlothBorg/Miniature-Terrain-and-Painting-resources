@@ -207,6 +207,8 @@
     * Clear coat
   * [Seafoam and armatures](https://www.youtube.com/watch?v=DEsOFAKCon8)
   * [Wire armitures and clump flock](https://www.youtube.com/watch?v=7yDCwDF8VD4)
+  * [Weeping Willow](https://www.youtube.com/watch?v=ysamDxGgiNg)
+  * [Cherry Tree](https://www.youtube.com/watch?v=FTP9vudu2oM)
  * [Salt Chipping / Salt Masking - Tutorial](https://makezine.com/2021/10/06/distressed-sign-using-salt-spray-paint/)
  * [Salt Chipping / Salt Masking - Video](https://www.youtube.com/watch?v=Nm7SIpaaU24&t=934s)  
 * [Gaslands Cars](https://www.youtube.com/watch?v=Nm7SIpaaU24)
