@@ -161,6 +161,10 @@
   * very finely ground coffee
   * acrylic paint
   * dilute with water to a paste
+* Gouache
+  * [Gouache: The great mini paint NO ONE talks about! - CC Minis](https://www.youtube.com/watch?v=8Eu2c8h7nSA)
+* Oil Paints
+  * [Easy Oil Paints on Miniatures - LegendaryTabletop](https://www.youtube.com/watch?v=4UoUfoS7mKs)
 
 </details>
 
