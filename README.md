@@ -248,6 +248,9 @@
   * [Protomolecule Tyranids](https://www.youtube.com/watch?v=HwMAPzbGYgc)
 * ### Flesh and Gore
   * [Warhammer Skin Gore Tutorial - Putrid_Comrade (YouTube short)](https://www.youtube.com/shorts/6DJdlRDoaZQ)
+* ### Painting
+  * #### Lighting & OSL
+    * [necron overlord is comming!! - elminiaturista (YouTube short)](https://www.youtube.com/shorts/svlBUgrNXIo) - Levitating rocks & crackling energy
 </details>
 
 <details>
