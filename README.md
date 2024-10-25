@@ -251,6 +251,8 @@
 * ### Painting
   * #### Lighting & OSL
     * [necron overlord is comming!! - elminiaturista (YouTube short)](https://www.youtube.com/shorts/svlBUgrNXIo) - Levitating rocks & crackling energy
+* ### Banners
+  * [The SURPRISINGLY EASY way to make AMAZING BANNERS - Zanzibrush](https://www.youtube.com/watch?v=n21qmX_yCHs) - Using matt medium to transfer images.
 </details>
 
 <details>
