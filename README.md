@@ -120,6 +120,8 @@
   * #### Manufactures
     * [Anycubic Photon](https://old.reddit.com/r/AnycubicPhoton/)
     * [Phrozen](https://old.reddit.com/r/Phrozen/)
+* ### Paints
+  * [ The Best Miniature Paints of 2024 - Dana Howl](https://www.youtube.com/watch?v=R0l3GmifDls)
 
 </details>
 
