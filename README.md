@@ -255,6 +255,7 @@
     * [necron overlord is comming!! - elminiaturista (YouTube short)](https://www.youtube.com/shorts/svlBUgrNXIo) - Levitating rocks & crackling energy
 * ### Banners
   * [The SURPRISINGLY EASY way to make AMAZING BANNERS - Zanzibrush](https://www.youtube.com/watch?v=n21qmX_yCHs) - Using matt medium to transfer images.
+* [Using Sprue-goo in molds](https://www.youtube.com/watch?v=4FXsDydXoZk)
 </details>
 
 <details>
