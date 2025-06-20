@@ -70,8 +70,8 @@
   * [Max DM Crafting](https://www.youtube.com/c/MaxDMCrafting)
   * [Kaypea Creations](https://www.youtube.com/c/KaypeaCreations) - Mostly making models of a larger than miniture game scale.
   * [Tucktuk's Trinkets and Terrain](https://www.youtube.com/c/TucktuksTrinketsandTerrain)
-* ### Scale Modeling  
-  * [Luke Towan](https://www.youtube.com/c/LukeTowan) - Detailed scale modeling 
+* ### Scale Modeling
+  * [Luke Towan](https://www.youtube.com/c/LukeTowan) - Detailed scale modeling
   * [scale Hangar 182](https://www.youtube.com/c/ScaleHangar182) - scale modeling
   * [Night Shift Scale Models](https://www.youtube.com/c/NightShiftScaleModels)
   * [RJMODELS](https://www.youtube.com/user/RJMODELS)
@@ -92,7 +92,7 @@
   * [LetsMakeItOrkie](https://www.youtube.com/channel/UCgH0NJRwBv-fot3oUd3np1w)
   * [Planet 40k](https://www.youtube.com/c/Planet40K)
   * [Billion Dollar Clown Farm](https://www.youtube.com/channel/UCiI_XuSHu2XuoIzuQY2vV1g) - Has some painting
-  
+
 </details>
 
 
@@ -154,11 +154,11 @@
   * [Squidmar Miniatures's review](https://www.youtube.com/watch?v=a8TtVSVTpDo)
 * ### Duncan's Paints
   * [Goobertown Hobbies's review](https://www.youtube.com/watch?v=i_ic0lb630k)
-* DIY Contrast Paint  
+* DIY Contrast Paint
   * 50 / 50 mix of flow improver & matte medium + Paint
   * or
   * Mix of Acrylic ink + matte medium + flow improver
-* DIY Crackle Paint  
+* DIY Crackle Paint
   * Concrete pigment
   * very finely ground coffee
   * acrylic paint
@@ -182,6 +182,10 @@
 * [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
 * [Rust effect with real rust](https://www.youtube.com/watch?v=ZiQcWaPqPPk)
+* [Rust Technique for Terrain - Tabletop Minions](https://www.youtube.com/watch?v=K5xP6cQTApY)
+  * 1 part Army Painter Fresh Rust
+  * 5 parts Army Painter Rust Tone
+  * 2 parts Army Painter Speed Paint Medium
 * DIY Sculptamold - 1:1 Blown in insulation & Plaster of Paris
 * DIY Texture Paste
   * Acrylic caulking
@@ -217,7 +221,7 @@
   * [Cherry Tree](https://www.youtube.com/watch?v=FTP9vudu2oM)
   * [How to make ULTRA REALISTIC wargaming trees - Broadsword Wargaming](https://www.youtube.com/watch?v=RGVp_szgPSc)
  * [Salt Chipping / Salt Masking - Tutorial](https://makezine.com/2021/10/06/distressed-sign-using-salt-spray-paint/)
- * [Salt Chipping / Salt Masking - Video](https://www.youtube.com/watch?v=Nm7SIpaaU24&t=934s)  
+ * [Salt Chipping / Salt Masking - Video](https://www.youtube.com/watch?v=Nm7SIpaaU24&t=934s)
 * [Gaslands Cars](https://www.youtube.com/watch?v=Nm7SIpaaU24)
 * ### DIY Battle mats
   * Coat a fabric drop cloth in a layer or two of acrylic caulking
@@ -230,11 +234,11 @@
  * Flesh Goop
    * PVA glue
    * Drop superglue over it
-   * After it starts reacting, move it around with a toothpick 
+   * After it starts reacting, move it around with a toothpick
    * Add ink for color
  * [Adam Savage Learns Grass Flocking at Wētā Workshop!](https://www.youtube.com/watch?v=2cZbx8edQPM)
  * [Fire, gas, fog etc using cotton balls](https://www.youtube.com/watch?v=JNquk-vooy0)
- * [Painting Fire with AP speed paints](https://www.youtube.com/watch?v=ooLoU4bXICU) 
+ * [Painting Fire with AP speed paints](https://www.youtube.com/watch?v=ooLoU4bXICU)
  * ### Basing
   * [Broad Sword Gaming - miniature basing guide](https://www.youtube.com/watch?v=-kWCXJzMHtw)
   * [EonsOfBattle - basing playlist](https://www.youtube.com/watch?v=ZMeYxSVcF8I&list=PLX1fXqW4h5RRcMWPdKQaOoskc-XsyeV9Z)
