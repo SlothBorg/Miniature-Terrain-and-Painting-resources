@@ -167,7 +167,7 @@
   * [Gouache: The great mini paint NO ONE talks about! - CC Minis](https://www.youtube.com/watch?v=8Eu2c8h7nSA)
 * Oil Paints
   * [Easy Oil Paints on Miniatures - LegendaryTabletop](https://www.youtube.com/watch?v=4UoUfoS7mKs)
-
+  * [Slaves to Darkness Chaos Chariot - painted with Oil Paints](https://www.youtube.com/watch?v=m8hdWab4UTI)
 </details>
 
 <details>
@@ -260,6 +260,8 @@
 * ### Banners
   * [The SURPRISINGLY EASY way to make AMAZING BANNERS - Zanzibrush](https://www.youtube.com/watch?v=n21qmX_yCHs) - Using matt medium to transfer images.
 * [Using Sprue-goo in molds](https://www.youtube.com/watch?v=4FXsDydXoZk)
+* ### Laser Light
+  * [Acrylic 40k sevitor laser](https://www.youtube.com/shorts/6DR_3cFzhYk)
 </details>
 
 <details>
