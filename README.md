@@ -196,6 +196,8 @@
   * 50/50 mix of Minwax Polycrylic and High Grade PVA, thinned as needed with water.
 * [Linen Tents](https://www.youtube.com/watch?v=d9CZoLcwdvA)
 * Leather - shop towels and pva if you want a leather/tent look... good tutorial from BMC and Real Terrain Hobbies on doing that
+* ### Stone & Stone texture
+  * [Summon Lesser Maker - Miniature Stonework Techniques - Deep Dive](https://www.youtube.com/watch?v=1oxLhjJveNA)
 * ### Gap filling
   * Green stuff, Miliput or Greenstuff & Milliput
     * Requires some sculpting, and polishing
