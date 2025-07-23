@@ -152,6 +152,8 @@
   * [EonsOfBattle's review](https://www.youtube.com/watch?v=Bu8gfboxgwo)
   * [Dana Howl's review](https://www.youtube.com/watch?v=srUSz8cPqTo)
   * [Squidmar Miniatures's review](https://www.youtube.com/watch?v=a8TtVSVTpDo)
+* ### AP
+  * [Watching How Speed Paints Look When Dry - MOBhammer40k](https://www.youtube.com/watch?v=BdlikqTOVdk)
 * ### Duncan's Paints
   * [Goobertown Hobbies's review](https://www.youtube.com/watch?v=i_ic0lb630k)
 * DIY Contrast Paint
