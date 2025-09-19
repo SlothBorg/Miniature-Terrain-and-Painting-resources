@@ -176,6 +176,7 @@
   <summary><h2>Specific Techniques</h2></summary>
 
 * [How do you make those little mushrooms? - RyanImelDM](https://www.youtube.com/watch?v=JzzTR4OYOcc)
+* [iPaintSmallThings - How to REMOVE SUPER GLUE RESIDUE](https://www.youtube.com/watch?v=U9glqgyxgM8)
 * [NMM Steel](https://i.redd.it/sevo2tnly7u71.jpg)
 * Painting Wood
   * [Wyloch's Armory - acrylic paint](https://www.youtube.com/watch?v=xyi8PhLjXIE&t=252s) see 4:10 mark
