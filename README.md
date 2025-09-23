@@ -58,6 +58,7 @@
   * [Studson Studio](https://www.youtube.com/c/StudsonStudio) - mostly dioramas, a lot of great techniques and ideas
   * [Mechanical Fiend](https://www.youtube.com/c/MechanicalFiend) - mostly dioramas and other art forms, a lot of great techniques and ideas
   * [Bill Making Stuff](https://www.youtube.com/c/BillMakingStuff)
+    * [100 CRAFTING / SCRATCHBUILDING / KITBASHING Tips For Beginners!](100_tips.md)
   * [The Terrain Tutor](https://www.youtube.com/c/TheTerrainTutor) - He also has a [book](https://www.ironheartartisans.com/shop/terrain-essentials-by-mel-bose-hardback-book/)
   * [Mister Waugh Media](https://www.youtube.com/user/misterwaughmusic) - new/young channel has some promise, guy has shown off some cool stuff on reddit.
   * [Bard's Craft](https://www.youtube.com/c/BardsCraft) - Now defunct? lots of good tutorials and ideas
