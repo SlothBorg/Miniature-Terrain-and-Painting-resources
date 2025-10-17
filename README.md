@@ -186,6 +186,8 @@
     * brown + orange + black oil paint
 * [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
+* Painting Tattoos
+  * [Hobby Cheating 245 - How to Paint Detailed Tattoos - Vince Venturella](https://www.youtube.com/watch?v=w0K3ReBIzR0)
 * [Rust effect with real rust](https://www.youtube.com/watch?v=ZiQcWaPqPPk)
 * [Rust Technique for Terrain - Tabletop Minions](https://www.youtube.com/watch?v=K5xP6cQTApY)
   * 1 part Army Painter Fresh Rust
