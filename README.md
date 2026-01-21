@@ -186,7 +186,7 @@
     * asphaltum + raw umber wash
   * [Wyloch's Armory - oil paint](https://www.youtube.com/watch?v=pxou7uG3vho?t=216s) see 3:36 mark
     * brown + orange + black oil paint
-* [Painting Undead](https://www.youtube.com/watch?v=rGaga9AyJ78)
+* [Painting Undead](https:/base/www.youtube.com/watch?v=rGaga9AyJ78)
 * [Painting Marble](https://www.youtube.com/watch?v=_GDw4bOA2_Y)
 * Painting Tattoos
   * [Hobby Cheating 245 - How to Paint Detailed Tattoos - Vince Venturella](https://www.youtube.com/watch?v=w0K3ReBIzR0)
@@ -273,6 +273,7 @@
 * [Using Sprue-goo in molds](https://www.youtube.com/watch?v=4FXsDydXoZk)
 * ### Laser Light
   * [Acrylic 40k sevitor laser](https://www.youtube.com/shorts/6DR_3cFzhYk)
+* [Quick grassy bases - Statesboro Warhammer Club](https://www.youtube.com/watch?v=wz5__dhFJQQ)
 </details>
 
 <details>
