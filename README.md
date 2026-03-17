@@ -274,6 +274,8 @@
 * ### Laser Light
   * [Acrylic 40k sevitor laser](https://www.youtube.com/shorts/6DR_3cFzhYk)
 * [Quick grassy bases - Statesboro Warhammer Club](https://www.youtube.com/watch?v=wz5__dhFJQQ)
+* ### Resin River Pours
+  * [Why Resin Rivers Look Flat (And How to Make Them Feel Alive) - Good Enough Scenery (YouTube)](https://www.youtube.com/watch?v=vRxsX7jNSO0)
 </details>
 
 <details>
