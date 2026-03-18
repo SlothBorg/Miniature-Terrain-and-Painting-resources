@@ -129,6 +129,7 @@
 <details>
   <summary><h2>Materials</h2></summary>
 
+* [Golden Heavy Body Acrylics](https://goldenartistcolors.com/products/golden-artist-acrylics/heavy-body)
 * [Paint comparisons](https://slothborg.github.io/paint-conversion/) - It is a fork of [this list](https://redgrimm.github.io/paint-conversion/), I am adding to
 * [Paint range compatibility chart](https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart)
 * [Paint Comparison Chart](https://herrickgames.com/pages/paint-comparison-chart.html)
