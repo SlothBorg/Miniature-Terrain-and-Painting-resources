@@ -121,15 +121,20 @@
   * #### Manufactures
     * [Anycubic Photon](https://old.reddit.com/r/AnycubicPhoton/)
     * [Phrozen](https://old.reddit.com/r/Phrozen/)
-* ### Paints
-  * [ The Best Miniature Paints of 2024 - Dana Howl](https://www.youtube.com/watch?v=R0l3GmifDls)
-
 </details>
 
 <details>
   <summary><h2>Materials</h2></summary>
 
-* [Golden Heavy Body Acrylics](https://goldenartistcolors.com/products/golden-artist-acrylics/heavy-body)
+* ### Paints
+  * [The Best Miniature Paints of 2024 - Dana Howl](https://www.youtube.com/watch?v=R0l3GmifDls)
+  * #### Golden 
+    * [Heavy Body Acrylics](https://goldenartistcolors.com/products/golden-artist-acrylics/heavy-body)
+    * [Fluid Acrylics](https://goldenartistcolors.com/products/golden-artist-acrylics/fluid)
+  * #### Liquitex
+    * [Soft Body]([)](https://www.liquitex.com/collections/professional-soft-body-acrylics)
+    * [Gouaches](https://www.liquitex.com/collections/professional-acrylic-gouaches)
+    * [Acrylic Ink](https://www.liquitex.com/collections/professional-acrylic-inks)
 * [Paint comparisons](https://slothborg.github.io/paint-conversion/) - It is a fork of [this list](https://redgrimm.github.io/paint-conversion/), I am adding to
 * [Paint range compatibility chart](https://www.dakkadakka.com/wiki/en/paint_range_compatibility_chart)
 * [Paint Comparison Chart](https://herrickgames.com/pages/paint-comparison-chart.html)
